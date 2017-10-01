@@ -36,5 +36,24 @@
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13"
-  }
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhnglx/react-timezone-select.git"
+  },
+  "keywords": [
+    "react",
+    "moment",
+    "moment-timezone",
+    "react-select",
+    "timezones",
+    "timezone",
+    "input",
+    "form",
+    "field"
+  ],
+  "bugs": {
+    "url": "https://github.com/vinhnglx/react-timezone-select/issues"
+  },
+  "homepage": "https://github.com/vinhnglx/react-timezone-select#readme"
 }
