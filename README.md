@@ -30,3 +30,7 @@ App.propTypes = {
 
 export default App;
 ```
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/vinhnglx/react-timezone-select
